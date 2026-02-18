@@ -1,6 +1,6 @@
 const net = require('net');
 
-const TARGET_HOST = 'pteronet.my.id'; // IP atau Domain Panel
+const TARGET_HOST = 'pteronet.my.id'; // IP atau Domain Panel //gunakan tanpa https://
 const TARGET_PORT = 443; // Biasanya 80 atau 443
 const CONNECTIONS = 20000; // Jumlah socket untuk menahan pool Nginx
 
