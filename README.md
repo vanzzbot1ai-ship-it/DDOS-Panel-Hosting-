@@ -1,5 +1,7 @@
 # DDOS-Panel-Hosting-
-Bisa Ddos Panel secara brutal dan Gacorr 
+Script Buatan Vanzz di jamin Gacorr poll 
+
+Jika Tertarik sama Vanzz Chat aja no wa nya https://wa.me/6288245672621
 
 # langkah pertama ↓
 
