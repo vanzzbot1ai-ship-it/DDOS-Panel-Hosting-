@@ -1,3 +1,7 @@
+//DDos By Vanzz
+// contact Vanzz +62-882-4567-2621
+
+
 const net = require('net');
 
 const TARGET_HOST = 'link_panel.my.id'; // IP atau Domain Panel //gunakan tanpa https://
