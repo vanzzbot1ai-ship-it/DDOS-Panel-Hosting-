@@ -11,12 +11,14 @@ Jika dia Menggunakan Http Maka Ganti Port nya yang 443 menjadi 80
 #Jika di Termux salin ini
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/vanzzbot1ai-ship-it/DDOS-Panel-Hosting-.git
+
 node panel.js
 ```
 #Kalok di Ubuntu Salin aja ini
 
-```bash sudo
-git clone https://github.com/username/repository.git
+```bash 
+sudo git clone https://github.com/vanzzbot1ai-ship-it/DDOS-Panel-Hosting-.git
+
 node panel.js
 ```
