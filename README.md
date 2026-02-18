@@ -2,6 +2,6 @@
 Bisa Ddos Panel secara brutal dan Gacorr 
 langkah pertama 
 
-``` gitclone https:///```
+` gitclone https:///`
 
-```node panel.js
+`node panel.js`
